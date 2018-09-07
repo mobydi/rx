@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rx", "rx\rx.csproj", "{349F0DEF-4768-4010-B7AC-2B3D0A88F105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rx.test", "rx.test\rx.test.csproj", "{632170C5-F213-4018-86EF-D25FAF20CEBD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1607FBA0-2D65-474E-BFD9-A4A69D227967}"
+	ProjectSection(SolutionItems) = preProject
+		c# coding assignment.docx = c# coding assignment.docx
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{349F0DEF-4768-4010-B7AC-2B3D0A88F105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{349F0DEF-4768-4010-B7AC-2B3D0A88F105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{349F0DEF-4768-4010-B7AC-2B3D0A88F105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{349F0DEF-4768-4010-B7AC-2B3D0A88F105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{632170C5-F213-4018-86EF-D25FAF20CEBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632170C5-F213-4018-86EF-D25FAF20CEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632170C5-F213-4018-86EF-D25FAF20CEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632170C5-F213-4018-86EF-D25FAF20CEBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
